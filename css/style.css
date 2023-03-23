@@ -1,0 +1,106 @@
+body{
+
+background-color: #39A2DB;
+}
+
+
+.container{
+
+padding: 50px;
+}
+
+.diego {
+
+  font-size: 60px;
+}
+
+h1 { color:white;
+  text-align: center;
+font-family: Tourney;
+  font-size: 60px;
+  position: relative;
+  top: 150px;
+
+}
+
+.gatinho {
+border-radius: 50%;
+position: relative;
+left: 60px;
+
+}
+
+.container-meio { background-color:#A2DBFA;
+  padding: 8%
+
+}
+
+
+h2 {color:black;
+font-family:Tourney;
+
+  text-align: center;
+font-size: 40px;
+}
+
+.exp1 { font-family: open sans Condensed;
+  font-size: 35px;
+  text-align:left;
+  color: #053742;
+}
+.exp2 {
+font-family: open sans Condensed;
+color: #053742;
+
+    font-size: 35px;
+text-align: center;
+}
+
+.exp3 {
+  font-family: open sans Condensed;
+color: #053742;
+  font-size: 35px;
+  text-align:right;
+}
+.site {
+
+
+  position: relative;
+
+  right: 400px;
+width: 300px;
+top: 50px;
+}
+li {
+font-family: open sans Condensed;
+font-size: 30px;
+}
+
+.penúltimo-container {
+padding: 4%;
+   background-color:  #7C83FD }
+
+.programador {
+  position: relative;
+   left: 20px;
+  padding: 10px;
+  width: 300px;
+}
+
+.símbolos{
+width: 500px;
+
+}
+
+
+.último-container{
+background-color: #96BAFF;
+}
+
+.fim {
+
+
+  font-family: open sans Condensed;
+  font-size: 30px;
+
+}
